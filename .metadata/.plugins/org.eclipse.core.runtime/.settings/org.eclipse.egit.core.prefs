@@ -1,3 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\yamada\\output_blog\\blog-platform\\.git;
-GitRepositoriesView.GitDirectories.relative=blog-platform\\.git;
+GitRepositoriesView.GitDirectories=C\:\\yamada\\output_blog\\.git;C\:\\Users\\souken\\git\\spring_blog\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\souken\\git\\spring_blog\\.git;
+RepositoryGroups.uuids=
 eclipse.preferences.version=1

@@ -1,4 +1,6 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u306E\u4F5C\u6210</message>\r\n<message>\u65B0\u898F\u30EA\u30DD\u30B8\u30C8\u30EA\u306E\u4F5C\u6210</message>\r\n</messages>
 eclipse.preferences.version=1
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
 show_git_prefix_warning=false
 show_home_drive_warning=false
 show_initial_config_dialog=false
