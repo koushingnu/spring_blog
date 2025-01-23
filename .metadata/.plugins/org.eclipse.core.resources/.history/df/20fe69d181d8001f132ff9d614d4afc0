@@ -1,0 +1,6 @@
+package com.example.blog.mapper;
+
+@Mapper
+public interface ArticleMapper {
+
+}

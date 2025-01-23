@@ -1,0 +1,16 @@
+package com.example.blog.mapper;
+
+import java.util.List;
+
+import org.apache.ibatis.annotations.Mapper;
+import org.apache.ibatis.annotations.Select;
+
+import com.example.blog.entity.Article;
+
+@Mapper
+public interface ArticleMapper {
+
+	@Select("SELECT * FROM articles")
+	List<Article> findAll();
+	
+}

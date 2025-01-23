@@ -1,0 +1,7 @@
+package com.example.blog.entity;
+
+@Data
+public class Article {
+	private Long id;
+
+}
